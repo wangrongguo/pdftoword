@@ -11,4 +11,4 @@
 # 本程序紧提供学习用
 
 # 图片
-![图片](https://github.com/wangrongguo/pdftoword/001.png)
+![图片](https://github.com/wangrongguo/pdftoword/blob/master/001.png)
